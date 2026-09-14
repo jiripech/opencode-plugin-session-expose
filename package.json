@@ -5,7 +5,10 @@
   "type": "module",
   "main": "opencode/plugins/session-expose.ts",
   "files": [
-    "opencode"
+    "opencode",
+    "package.json",
+    "LICENSE",
+    "README.md"
   ],
   "license": "MIT",
   "repository": {
