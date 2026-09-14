@@ -14,7 +14,7 @@ Add the package to your OpenCode config:
 
 Or place the `opencode/plugins/` directory directly in your plugin path:
 
-```
+```text
 ~/.config/opencode/plugins/
 .opencode/plugins/
 ```
@@ -25,4 +25,6 @@ Or place the `opencode/plugins/` directory directly in your plugin path:
 
 ## License
 
-MIT
+[MIT License][def]
+
+[def]: LICENSE
