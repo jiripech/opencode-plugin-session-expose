@@ -1,5 +1,5 @@
 import { describe, it, expect, vi, beforeEach } from "vitest"
-import { SessionIdPlugin } from "./opencode/plugins/session-id"
+import { SessionIdPlugin } from "../opencode/plugins/session-id"
 
 describe("SessionIdPlugin", () => {
   it("returns the tool definition", async () => {
