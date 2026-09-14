@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "opencode-plugin-sessionid",
+      "name": "opencode-plugin-session-expose",
       "dependencies": {
         "@opencode-ai/plugin": "1.18.31",
       },

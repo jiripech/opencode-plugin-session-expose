@@ -1,16 +1,16 @@
 {
-  "name": "opencode-plugin-sessionid",
-  "version": "1.0.3",
+  "name": "opencode-plugin-session-expose",
+  "version": "1.0.1",
   "description": "OpenCode plugin that exposes the current session ID as a tool",
   "type": "module",
-  "main": "opencode/plugins/session-id.ts",
+  "main": "opencode/plugins/session-expose.ts",
   "files": [
     "opencode"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jiri-pech/opencode-plugin-sessionid.git"
+    "url": "git+https://github.com/jiri-pech/opencode-plugin-session-expose.git"
   },
   "scripts": {
     "test": "vitest run"

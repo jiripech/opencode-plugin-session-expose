@@ -1,4 +1,4 @@
-# opencode-plugin-sessionid
+# opencode-plugin-session-expose
 
 OpenCode plugin that exposes the current session ID as a tool.
 
@@ -8,7 +8,7 @@ Add the package to your OpenCode config:
 
 ```json
 {
-  "plugin": ["opencode-plugin-sessionid"]
+  "plugin": ["opencode-plugin-session-expose"]
 }
 ```
 
