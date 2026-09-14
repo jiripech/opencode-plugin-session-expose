@@ -1,6 +1,6 @@
 {
   "name": "opencode-plugin-session-expose",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "OpenCode plugin that exposes the current session ID as a tool",
   "type": "module",
   "main": "opencode/plugins/session-expose.ts",
