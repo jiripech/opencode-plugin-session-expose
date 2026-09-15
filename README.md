@@ -4,7 +4,13 @@ OpenCode plugin that exposes the current session ID as a tool.
 
 ## Install
 
-Add the package to your OpenCode config:
+From GitHub:
+
+```bash
+npm install github:jiri-pech/opencode-plugin-session-expose
+```
+
+Then add the plugin to your OpenCode config:
 
 ```json
 {
